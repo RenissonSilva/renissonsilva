@@ -1,7 +1,7 @@
 # Renisson Silva
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-3dadaa?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/renissonsilva/)](https://www.linkedin.com/in/renissonsilva/) 
-[![Gmail Badge](https://img.shields.io/badge/-renissonx@gmail.com-3dadaa?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:renissonx@gmail.com)](mailto:renissonx@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-renissonx@gmail.com-3dadaa?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renissonx@gmail.com)](mailto:renissonx@gmail.com)
 
 ## 🛠️ Principais ferramentas e tecnologias
 
